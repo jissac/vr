@@ -3,4 +3,6 @@
 
 * Learn basic C#
 * Vector manipulation (used a lot in VR development)
-* Unity console based game at the end
+* Objects and classes (OOP)
+* Debugging
+* Develop a console-based game in Unity
