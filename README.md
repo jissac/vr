@@ -1,2 +1,2 @@
 # vr
-collection of VR work
+collection of Virtual Reality projects
