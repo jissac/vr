@@ -14,6 +14,11 @@ https://glitch.com
 ## Companies     
 https://www.leapmotion.com/     
 
+## Research Labs
+Virtual Human Interaction Lab: https://vhil.stanford.edu/     
+
+Information Interaction Lab: https://www.mi2lab.com/
+
 ## Tutorials
 Building a Snake game using Unity and ARCore     
 https://codelabs.developers.google.com/codelabs/arcore-intro
