@@ -10,6 +10,9 @@ https://aframe.io/
 Build the app of your dreams     
 https://glitch.com     
 
+Leap Motion blog     
+http://blog.leapmotion.com/
+
 ## Documentation / Code
 Microsoft Mixed Reality      
 https://docs.microsoft.com/en-us/windows/mixed-reality/       
