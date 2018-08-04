@@ -13,7 +13,8 @@ https://glitch.com
 Leap Motion blog     
 http://blog.leapmotion.com/      
 
-vr
+Google VR     
+https://github.com/googlevr
 
 ## Documentation / Code
 Microsoft Mixed Reality      
