@@ -11,7 +11,9 @@ Build the app of your dreams
 https://glitch.com     
 
 Leap Motion blog     
-http://blog.leapmotion.com/
+http://blog.leapmotion.com/      
+
+vr
 
 ## Documentation / Code
 Microsoft Mixed Reality      
