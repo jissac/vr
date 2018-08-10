@@ -39,7 +39,10 @@ Building a Snake game using Unity and ARCore
 https://codelabs.developers.google.com/codelabs/arcore-intro
 
 Vuforia + Unity     
-https://www.youtube.com/watch?v=MtiUx_szKbI  
+https://www.youtube.com/watch?v=MtiUx_szKbI       
+
+SketchAR     
+https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html    
 
 ## Newsletters
 http://nycmedialab.org/newsletters    
